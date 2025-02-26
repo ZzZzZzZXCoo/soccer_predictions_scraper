@@ -43,7 +43,7 @@ jobs:
     - name: Configure Git
       run: |
         git config --global user.name "dcosta-da"
-        git config --global user.email "damien.cds@gmail.com"
+        git config --global user.email "agunfirnanda@gmail.com"
 
     - name: Commit Excel file
       run: |
